@@ -157,6 +157,3 @@ Check that the model file is valid and compatible with the scikit-learn version 
 
 Check that `players.csv` contains all the required column names listed above, including the exact spelling and capitalization.
 
-## License
-
-No license file was included in the supplied project archive. Add a `LICENSE` file if you intend to distribute or reuse this project under a specific license.
